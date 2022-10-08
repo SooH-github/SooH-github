@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB.svg?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/>
-</br>
+<br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
@@ -16,7 +16,8 @@
    <a href="mailto:andnan2244@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    <a href="https://www.instagram.com/sooh_098/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
-</br>
+<br>
+
 <div align="center">
 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=SooH-github&theme=default)](https://git.io/streak-stats)
