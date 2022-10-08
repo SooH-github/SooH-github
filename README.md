@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=SooH&fontSize=80"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SooH&fontSize=80"/></div>
 <h3 align="center">:wave: Welcome to SooH-github :wave:</h3>
 <div align="center">Hi there, I'm Suhyun Park :star:</div>
 
