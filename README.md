@@ -16,3 +16,8 @@
    <a href="mailto:andnan2244@kyonggi.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
    <a href="https://www.instagram.com/sooh_098/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
+</br>
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SooH-github&theme=default)](https://git.io/streak-stats)
+</div>
