@@ -19,6 +19,8 @@
 <br>
 
 <div align="center">
-
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooh098)](https://solved.ac/sooh098)
+  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=SooH-github&theme=default)](https://git.io/streak-stats)
 </div>
