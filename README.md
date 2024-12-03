@@ -30,5 +30,5 @@
 <h3 align="center">:fire: Commit Challenge :fire:</h3>
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=SooH-github&theme=default)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SooH-github&theme=icegray&hide_border=true&card_width=450&card_height=100)](https://git.io/streak-stats)
 </div>
