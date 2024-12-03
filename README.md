@@ -28,7 +28,7 @@
 <h3 align="center">:trophy: Baekjoon Rank :trophy:</h3>
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooh098)](https://solved.ac/sooh098)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooh098)](https://solved.ac/profile/sooh098)
 </div>
 <br>
 
