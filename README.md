@@ -13,8 +13,9 @@
 <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=flat-square&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gitlab-FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white"/>
 </p>
 <br>
 
@@ -29,11 +30,4 @@
 <div align="center">
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sooh098)](https://solved.ac/profile/sooh098)
-</div>
-<br>
-
-<h3 align="center">:fire: Commit Challenge :fire:</h3>
-<div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=SooH-github&theme=icegray&hide_border=true&card_width=450&card_height=100)](https://git.io/streak-stats)
 </div>
